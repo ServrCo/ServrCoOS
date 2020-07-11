@@ -1,7 +1,7 @@
 # ServrCoOS
 The source code, binaries, and image files for Servr Co OS
 
-Hello! Welcome to the source o everything related to Servr Co OS! We are currently developing stuff and things, and our sources will slowly make their way to here.
+Hello! Welcome to the source of everything related to Servr Co OS! We are currently developing stuff and things, and our sources will slowly make their way to here.
 
 The first thing to be uploaded is our binaries for Windows, to show off what we have done so far.
 
