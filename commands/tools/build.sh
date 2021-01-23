@@ -1,5 +1,5 @@
 echo Compiling terminal commands.
-mkdir ../bins
+mkdir -p ../bins
 
 cd ../commandCalc
 sh compile.sh

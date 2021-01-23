@@ -1,5 +1,5 @@
 echo Building API.
-mkdir ../bins
+mkdir -p ../bins
 
 cp -R ../http/. ../bins/http/
 

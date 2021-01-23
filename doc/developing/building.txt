@@ -1,0 +1,5 @@
+HOW TO BUILD FROM SOURCE:
+
+1. Open source tree in terminal
+2. Run the command "make" to compile from source, or run "make all" to also build a package from the source code.
+3. Everything should be compiled into the bins folder, and that will include SCOS.7z if you choose to run "make all"

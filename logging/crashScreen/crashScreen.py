@@ -15,8 +15,8 @@ def exit():
     win.destroy()
 
 Label(win, text="Shell has crashed. Press a button to continue.").place(relx=0.5, rely=0.45, anchor="c")
-Button(win, text="relaunch", command=relaunch).place(relx=0.45, rely=0.51, anchor="c")
-Button(win, text="exit", command=exit).place(relx=0.55, rely=0.51, anchor="c")
+Button(win, text="Relaunch", command=relaunch).place(relx=0.45, rely=0.51, anchor="c")
+Button(win, text="Exit", command=exit).place(relx=0.55, rely=0.51, anchor="c")
 
 def KillSwitch(event):
     win.destroy()

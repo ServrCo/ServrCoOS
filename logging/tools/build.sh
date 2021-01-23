@@ -1,6 +1,6 @@
 echo Building logging.
 
-mkdir ../bins
+mkdir -p ../bins
 
 cp -R ../crashScreen/. ../bins/crashScreen/
 

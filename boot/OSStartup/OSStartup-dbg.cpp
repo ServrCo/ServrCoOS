@@ -11,7 +11,7 @@ void launchAPI() {
 int main(int argc, char **argv) {
     cout << "Launching Servr Co OS. Enjoy!" << endl;
     thread t1(launchAPI); // Start API Server on new thread
-    int ShellInstance = system("cd shell;python3 shell.py"); // Launch shell on main thread
+    int ShellInstance = system("cd shell;python3 shell.py dbg"); // Launch shell on main thread
 
     if (ShellInstance == 0) {
         cout << "Shell exited cleanly." << endl;

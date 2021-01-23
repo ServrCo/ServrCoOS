@@ -11,6 +11,8 @@ cp -R ../shell/. shell
 cp -R ../cmds/. cmds
 cp -R ../logging/. logg
 cp -R ../api/. api
+cp -R ../accessories/. accessories
+
 
 echo Bundling into 7Z archive.
 cd ..

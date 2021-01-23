@@ -24,4 +24,7 @@ rm -Rf bins
 cd ../installer/
 rm -Rf bins
 
+cd ../accessories/
+rm -Rf bins
+
 echo Cleaning complete.
