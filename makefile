@@ -17,6 +17,9 @@ install-image:
 version-dbg:
 	cd buildTools/build-types;sh dbg.sh
 
+version-exp:
+	cd buildTools/build-types;sh exp.sh
+
 sense:
 	echo Not possible. Sorry. This is Linux.
 
